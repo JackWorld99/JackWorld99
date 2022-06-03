@@ -7,6 +7,7 @@
 ## 🔭 I'm an undergraduate software engineering student
 
 - 🌱 I’m currently learning everything 🤓
+- 🚩 Currently more focused on web development
 - 🥅 2022 Goals: Contribute more open source projects
 - 📧 How to reach me: jackwong0326@gmail.com
 - 😄 Pronouns: he/him
