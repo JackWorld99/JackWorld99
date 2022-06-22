@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Jack Welcome to my world
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) \
 ![JackWorld99 GitHub stats](https://github-readme-stats.vercel.app/api?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JackWorld99&theme=tokyonight)](https://git.io/streak-stats)
 
