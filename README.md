@@ -1,8 +1,9 @@
 
 ### Hi there 👋, I'm Jack Welcome to my world
 
-![JackWorld99 GitHub stats](https://github-readme-stats.vercel.app/api?username=JackWorld99&show_icons=true&theme=gruvbox_light)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackWorld99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![JackWorld99 GitHub stats](https://github-readme-stats.vercel.app/api?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JackWorld99&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🔭 I'm an undergraduate software engineering student
 
