@@ -1,6 +1,5 @@
 <img width="100%" height="40%" src="img/banner.gif">
 <h2 align="center">Hi there 👋, I'm Jack Welcome to my world</h2>
-<hr>
 <img align="right" alt="Coding" width="40%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I'm an undergraduate software engineering student
