@@ -40,6 +40,6 @@
 <img align="left" alt="Terminal" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <br><br><br><br><br>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![JackWorld99 GitHub stats](https://github-readme-stats.vercel.app/api?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JackWorld99&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JackWorld99&theme=tokyonight)
