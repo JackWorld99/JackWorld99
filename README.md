@@ -24,6 +24,7 @@
 <img align="left" alt="MySQL" width="35px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="firebase" width="35px" height="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
 <img align="left" alt="Mongodb" width="35px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="Wordpress" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png"/>
 <img align="left" alt="Laravel" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png"/>
 <img align="left" alt="React" width="35px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
 <img align="left" alt="ReactNative" width="35px" height="35px" src="https://reactnative.dev/img/header_logo.svg"/>
