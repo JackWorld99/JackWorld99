@@ -34,7 +34,7 @@
 <br><br>
 <img align="left" alt="Git" width="35px" height="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
-<img align="left" alt="Sourcetree" width="30px" height="35px" src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png"/>
+<img align="left" alt="Sourcetree" width="35px" height="35px" src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png"/>
 <img align="left" alt="Vscode" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="Postman" width="35px" height="35px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png"/>
 <img align="left" alt="Linux" width="35px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
