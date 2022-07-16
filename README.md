@@ -1,6 +1,6 @@
 <img width="100%" height="40%" src="img/banner.gif">
 <h2 align="center">Hi there 👋, I'm Jack Welcome to my world</h2>
-<img align="right" alt="Coding" width="40%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I'm an undergraduate software engineering student
 - 🌱 I’m currently learning everything
@@ -11,7 +11,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can't program without dark mode
 
-<br><br>
+<br>
 
 ### Languages ⌨ and Tools 🛠:
 
