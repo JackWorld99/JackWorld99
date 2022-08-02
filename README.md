@@ -34,8 +34,8 @@
 <img align="left" alt="Bootstrap" width="35px" height="35px" src="img/bootstrap.svg"/>
 <img align="left" alt="tailwindcss" width="35px" height="35px" src="img/tailwindcss.svg"/>
 <img align="left" alt="Git" width="35px" height="35px" src="img/git.png" />
-<img align="left" alt="GitHub" width="35px" height="35px" src="img/Github.png" />
-<img align="left" alt="Sourcetree" width="35px" height="35px" src="img/Sourcetree.png"/>
+<img align="left" alt="GitHub" width="35px" height="35px" src="img/github.png" />
+<img align="left" alt="Sourcetree" width="35px" height="35px" src="img/sourcetree.png"/>
 <img align="left" alt="Vscode" width="35px" height="35px" src="img/vscode.png"/>
 <img align="left" alt="Postman" width="35px" height="35px" src="img/postman.png"/>
 <img align="left" alt="Docker" width="35px" height="35px" src="img/docker.png" />
