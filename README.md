@@ -2,27 +2,29 @@
 <h2 align="center">Hi there 👋, I'm Jack Welcome to my world</h2>
 <img align="right" alt="Coding" width="280" src="img/programmer.gif">
 
-- 🔭 I'm an undergraduate software engineering student
+- 😄 Pronouns: He/Him
+- 🔭 I'm fresh out of Software Engineering
 - 🌱 I’m currently learning everything
 - 🚩 Currently more focused on web development
 - 👻 Know a little bit of everything, but not proficient
-- 🥅 2022 Goals: Contribute more open source projects
+- 👨‍💻 Personal Website/Resume: [WWJ Portfolio](https://wwj-portfolio.vercel.app "[WWJ Portfolio")
 - 📧 How to reach me: jackwong0326@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I can't program without dark mode
+- 🥅 2022 Goals: Contribute more open source projects
 
 <br>
 
-### Languages ⌨ and Tools 🛠:
+### Skills Set ⌨ 🛠:
 
 <img align="left" alt="JavaScript" width="35px" height="35px" src="img/javascript.png"/>
 <img align="left" alt="PHP" width="35px" height="35px" src="img/php.png"/>
 <img align="left" alt="Python" width="35px" height="35px" src="img/python.png"/>
+<img align="left" alt="SQL" width="35px" height="35px" src="img/sql.png"/>
 <img align="left" alt="Node.js" width="35px" height="35px" src="img/nodejs.png"/>
+<img align="left" alt="Nextjs" width="35px" height="35px" src="img/nextjs.png"/>
 <img align="left" alt="jQuery" width="35px" height="35px" src="img/jQuery.png"/>
 <img align="left" alt="HTML5" width="35px" height="35px" src="img/html.png"/>
 <img align="left" alt="CSS3" width="35px" height="35px" src="img/css.png"/>
-<img align="left" alt="SQL" width="35px" height="35px" src="img/sql.png"/>
 <img align="left" alt="MySQL" width="35px" height="35px" src="img/mysql.svg"/>
 <img align="left" alt="firebase" width="35px" height="35px" src="img//firebase.svg"/>
 <img align="left" alt="Mongodb" width="35px" height="35px" src="img/mongodb.svg"/>
@@ -40,7 +42,7 @@
 <img align="left" alt="Postman" width="35px" height="35px" src="img/postman.png"/>
 <img align="left" alt="Docker" width="35px" height="35px" src="img/docker.png" />
 <img align="left" alt="Linux" width="35px" height="35px" src="img/linux.svg" />
-<img align="left" alt="Terminal" width="35px" height="35px" src="img/terminal.png"/>
+<img align="left" alt="Bash" width="35px" height="35px" src="img/bash.svg"/>
 <br><br><br><br><br>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)
