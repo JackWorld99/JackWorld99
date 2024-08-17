@@ -10,7 +10,7 @@
 - 👨‍💻 Personal Website/Resume: [WWJ Portfolio](https://wwj-portfolio.vercel.app "[WWJ Portfolio")
 - 📧 How to reach me: jackwong0326@gmail.com
 - ⚡ Fun fact: I can't program without dark mode
-- 🥅 2022 Goals: Contribute more open source projects
+- 🥅 2024 Goals: Contribute more open source projects
 
 <br>
 
@@ -46,5 +46,5 @@
 <br><br><br><br><br>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![JackWorld99 GitHub stats](https://github-readme-stats.vercel.app/api?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+<!-- ![JackWorld99 GitHub stats](https://github-readme-stats.vercel.app/api?username=JackWorld99&show_icons=true&locale=en&layout=compact&theme=tokyonight) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JackWorld99&theme=tokyonight)
