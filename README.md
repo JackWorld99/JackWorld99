@@ -10,7 +10,7 @@
 - 👨‍💻 Personal Website/Resume: [WWJ Portfolio](https://wwj-portfolio.vercel.app "[WWJ Portfolio")
 - 📧 How to reach me: jackwong0326@gmail.com
 - ⚡ Fun fact: I can't program without dark mode
-- 🥅 2024 Goals: Contribute more open source projects
+- 🥅 2025 Goals: Contribute more open source projects
 
 <br>
 
