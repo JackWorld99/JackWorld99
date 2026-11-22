@@ -24,7 +24,7 @@ A developer from **Malaysia**. I build websites, apps and AI assistants that tak
 ## ✅ Real results
 
 - 💬 **AI salesperson on WhatsApp.** Replies to shoppers day and night, spots serious buyers, places orders, and hands over to staff when needed. Live for an online store.
-- 📲 **[Shuttle](https://github.com/JackWorld99/shuttle-releases/releases/latest).** Send photos and files between phone and computer in full quality. Built and released for Android, Windows and Mac in under two weeks.
+- 📲 **[Shuttle](https://github.com/JackWorld99/shuttle).** Send photos and files between phone and computer in full quality. Built and released for Android, Windows and Mac in under two weeks.
 - 🏢 **An AI "team".** AI staff for research, content, finance and risk that meet, discuss and hand me a report to approve.
 - 📡 **Model Radar.** Picks the best and cheapest AI for each job, so AI costs stay low.
 
